@@ -1,12 +1,12 @@
 
 @font-face {
-  font-family: 'Avenir Light';
-  src: url('../fonts/Avenir-Light.ttf') format('truetype');
+  font-family: 'Airplanes in the Night Sky';
+  src: url('Airplanes in the Night Sky.ttf') format('truetype');
  }
 
  @font-face {
-  font-family: 'Avenir Heavy';
-  src: url('../fonts/Avenir-Heavy.ttf') format('truetype');
+  font-family: 'BeatrixAntiqua';
+  src: url('BeatrixAntiqua-Thin Trial.ttf') format('truetype');
  }
 
 /* GLOBALS */
@@ -20,7 +20,7 @@ body {
   margin: 0;
   color: #404040;
   font-size: 1em;
-  font-family: 'Avenir Light', sans-serif;
+  font-family: 'BeatrixAntiqua', sans-serif;
   font-weight: 300;
   overflow-x: hidden;
 }
