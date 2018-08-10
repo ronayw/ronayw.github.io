@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 name: rona.
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:titlepermalink: /blog/:year/:month/:day/:title
