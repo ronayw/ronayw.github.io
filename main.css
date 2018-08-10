@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'Airplanes in the Night Sky';
-  src: local('/fonts/Airplanes in the Night Sky.ttf') format('opentype');
+  src: url('Airplanes in the Night Sky.ttf') format('opentype');
   font-weight: normal;
  }
 
  @font-face {
   font-family: 'BeatrixAntiqua';
-  src: url('/fonts/BeatrixAntiqua-Thin Trial.ttf') format('opentype');
+  src: url('BeatrixAntiqua-Thin Trial.ttf') format('opentype');
   font-weight: normal;
  }
 
