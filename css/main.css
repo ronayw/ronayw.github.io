@@ -1,13 +1,6 @@
-
 @font-face {
-  font-family: 'Airplanes in the Night Sky';
-  src: url('Airplanes in the Night Sky.ttf') format('truetype');
-  font-weight: normal;
- }
-
- @font-face {
   font-family: 'BeatrixAntiqua';
-  src: url('BeatrixAntiqua-Thin Trial.ttf') format('truetype');
+  src: url('BeatrixAntiqua-Thin Trial.ttf');
   font-weight: normal;
  }
 
