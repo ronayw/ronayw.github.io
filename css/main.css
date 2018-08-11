@@ -9,7 +9,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'BeatrixAntiqua', Arial, 'Sans-Serif';
+    font-family:'BeatrixAntiqua', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -26,7 +26,7 @@ a:hover {
     text-decoration: underline;
 }
 
-h1, h2, h3, h4 { font-family: 'BeatrixAntiqua', Arial, 'Sans-Serif'; }
+h1, h2, h3, h4 { font-family: 'BeatrixAntiqua', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
